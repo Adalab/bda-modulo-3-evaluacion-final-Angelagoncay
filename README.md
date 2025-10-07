@@ -34,9 +34,9 @@ ________________________________________
 El proyecto demuestra mi capacidad de manejar datos reales, integrando técnicas de limpieza, análisis visual y evaluación estadística dentro del entorno de Python y sus librerías de análisis de datos.
 ________________________________________
 
-# Autora: Ángela González Cayero
-# Fecha: 07/10/2025
-# Email: angelagoncay@hotmail.com
+Autora: Ángela González Cayero
+Fecha: 07/10/2025
+Email: angelagoncay@hotmail.com
 
 <img width="1024" height="1024" alt="ChatGPT Image 2 oct 2025, 12_20_24" src="https://github.com/user-attachments/assets/9d3fd5c9-6ee5-4e04-ba61-8c042af694b4" />
 
