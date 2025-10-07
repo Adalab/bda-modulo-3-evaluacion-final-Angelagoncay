@@ -34,7 +34,7 @@ ________________________________________
 El proyecto demuestra mi capacidad de manejar datos reales, integrando técnicas de limpieza, análisis visual y evaluación estadística dentro del entorno de Python y sus librerías de análisis de datos.
 ________________________________________
 
-Autora: Ángela González Cayero
+# Autora: Ángela González Cayero
 Fecha: 07/10/2025
 Email: angelagoncay@hotmail.com
 
