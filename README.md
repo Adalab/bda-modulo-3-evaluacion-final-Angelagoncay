@@ -1,6 +1,3 @@
-# bda-modulo-3-evaluacion-final-Angelagoncay
-bda-modulo-3-evaluacion-final-Angelagoncay created by GitHub Classroom
-
 # Evaluación Módulo III
 # Ejercicio de evaluación final del Módulo III – Análisis de Datos
 Este proyecto tiene como objetivo aplicar las competencias adquiridas en la exploración, limpieza, análisis y visualización de datos mediante Python. Los datos utilizados provienen de un programa de lealtad de una aerolínea, llamada: DataSky, y permiten estudiar el comportamiento de sus clientes.
